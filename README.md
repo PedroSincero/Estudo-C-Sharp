@@ -16,7 +16,7 @@ Bem-vindo ao repositório que guarda os frutos dos meus mergulhos no vasto unive
 
 ## Organização do Repositório
 
-- Códigos: Encontre aqui os scripts, programas e projetos que desenvolvi durante meus estudos.
+- Trybe: Encontre aqui os scripts, programas, projetos e anotações desenvolvidos da aceleração C#.
 - Notas: Esta seção abriga minhas anotações, insights e lições aprendidas ao longo do caminho.
 - Recursos: Lista de materiais, tutoriais e links úteis que consultei para aprimorar meu entendimento em C#.
 
