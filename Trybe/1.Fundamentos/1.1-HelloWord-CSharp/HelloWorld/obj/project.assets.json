@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/pedro/Estudos/Estudo-C-Sharp/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/home/pedro/Estudos/Estudo-C-Sharp/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/home/pedro/.nuget/packages/",
-      "outputPath": "/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/",
+      "outputPath": "/home/pedro/Estudos/Estudo-C-Sharp/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedro/.nuget/NuGet/NuGet.Config"

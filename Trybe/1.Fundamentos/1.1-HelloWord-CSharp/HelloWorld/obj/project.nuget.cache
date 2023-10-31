@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKG4e5JV4jKMox5APPKcwGnJ6Ct9wJOLEozjVK7PSHRA63GUnSl+f7Hcsrz1ZDznCV1O3hBh18ftadarnxcHJQ==",
+  "dgSpecHash": "Ps3bwoYoUGxXR8RW5YbUOhnXTcEmYurQsSGVPm3jEjfYEu0StmU2vpJhwnflLe0H4Hr5EUDFiBB6sajDVfMEmQ==",
   "success": true,
-  "projectFilePath": "/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/pedro/Estudos/Estudo-C-Sharp/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
