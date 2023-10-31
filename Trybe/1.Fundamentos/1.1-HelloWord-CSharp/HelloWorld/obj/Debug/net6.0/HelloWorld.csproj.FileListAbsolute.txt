@@ -1,0 +1,15 @@
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/pedro/Estudos/trybe/Estudos-C#/Trybe/1.Fundamentos/1.1-HelloWord-CSharp/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
